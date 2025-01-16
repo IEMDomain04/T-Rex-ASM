@@ -5,8 +5,8 @@
 ### Members: 
 - Austero, Abdiel
 - Duro, Johan Brent
-- Fernandez, Lantis Red 
-- Manduriaga, Emman
+- Fernandez, Lantis Red - Lead Developer
+- Manduriaga, Emman - Lead UI
 - Ramos, Joan
 - Tarino, Janna Lyka
 - Sanchez, Venus Aira
