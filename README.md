@@ -30,5 +30,6 @@ Play as Rex the T-Rex and navigate through the lands while avoiding any obstacle
 - Clone this repository 
 - Run game.asm 
 
-# Credits to Harley's Group
-- Implementing Game rankings
+<br>
+
+Scoreboard File I/O Algorithm from [Harley](https://github.com/gekiiMei)
