@@ -16,6 +16,7 @@ Play as Rex the T-Rex and navigate through the lands while avoiding any obstacle
 
 # Infos:
 - All made in 8086 assembly
+- Use arrows for navigation menu
 - 'W' to jump
 
 # How to Play:
@@ -23,3 +24,11 @@ Play as Rex the T-Rex and navigate through the lands while avoiding any obstacle
 - Download the executable game using this [link.](https://github.com/lanseudesu/Dinosaur-Game-ASM-Project/releases/tag/v1.1.0)
 
 - Type "game" on your DosBox and enjoy!
+
+# To run in your local computer:
+- You should have dosbox
+- Clone this repository 
+- Run game.asm 
+
+# Credits to Harley's Group
+- Implementing Game rankings
